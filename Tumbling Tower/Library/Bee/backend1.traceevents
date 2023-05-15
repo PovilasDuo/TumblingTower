@@ -1,0 +1,499 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1684133018783536, "dur":86, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684133018783729, "dur":4185, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684133018787940, "dur":376, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684133018788434, "dur":1611, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684133018790167, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":0, "ts":1684133018790233, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":0, "ts":1684133018790297, "dur":129, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1684133018790437, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1684133018790499, "dur":97, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1684133018790658, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level1" }}
+,{ "pid":12345, "tid":0, "ts":1684133018790750, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level1.resS" }}
+,{ "pid":12345, "tid":0, "ts":1684133018790879, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level10.resS" }}
+,{ "pid":12345, "tid":0, "ts":1684133018790973, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level11" }}
+,{ "pid":12345, "tid":0, "ts":1684133018791063, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level11.resS" }}
+,{ "pid":12345, "tid":0, "ts":1684133018791121, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level12" }}
+,{ "pid":12345, "tid":0, "ts":1684133018791225, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level12.resS" }}
+,{ "pid":12345, "tid":0, "ts":1684133018791324, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level13" }}
+,{ "pid":12345, "tid":0, "ts":1684133018791415, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level13.resS" }}
+,{ "pid":12345, "tid":0, "ts":1684133018791731, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level2" }}
+,{ "pid":12345, "tid":0, "ts":1684133018791791, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level2.resS" }}
+,{ "pid":12345, "tid":0, "ts":1684133018791935, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level3.resS" }}
+,{ "pid":12345, "tid":0, "ts":1684133018792027, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level4" }}
+,{ "pid":12345, "tid":0, "ts":1684133018792165, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level5" }}
+,{ "pid":12345, "tid":0, "ts":1684133018792254, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level5.resS" }}
+,{ "pid":12345, "tid":0, "ts":1684133018792346, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level6" }}
+,{ "pid":12345, "tid":0, "ts":1684133018792423, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level6.resS" }}
+,{ "pid":12345, "tid":0, "ts":1684133018792567, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level7.resS" }}
+,{ "pid":12345, "tid":0, "ts":1684133018792692, "dur":93, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level8.resS" }}
+,{ "pid":12345, "tid":0, "ts":1684133018792795, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level9" }}
+,{ "pid":12345, "tid":0, "ts":1684133018792936, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/resources.assets" }}
+,{ "pid":12345, "tid":0, "ts":1684133018793149, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1684133018793250, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1684133018793393, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1684133018793455, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1684133018793553, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1684133018793682, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1684133018793774, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets10.assets" }}
+,{ "pid":12345, "tid":0, "ts":1684133018793863, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets11.assets" }}
+,{ "pid":12345, "tid":0, "ts":1684133018793952, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets12.assets" }}
+,{ "pid":12345, "tid":0, "ts":1684133018794088, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":0, "ts":1684133018794152, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":0, "ts":1684133018794287, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":0, "ts":1684133018794476, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets4.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1684133018794559, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":0, "ts":1684133018794656, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":0, "ts":1684133018794734, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":0, "ts":1684133018794824, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets7.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1684133018794913, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets8.assets" }}
+,{ "pid":12345, "tid":0, "ts":1684133018795041, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1684133018795117, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1684133018795213, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":0, "ts":1684133018795417, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018795512, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018795589, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018795680, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018795879, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018796016, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018796114, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018796206, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018796298, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018796388, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018796483, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018796621, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018796704, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018796795, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018796887, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018797038, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018797240, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018797334, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018797391, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018797487, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018797642, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018797739, "dur":105, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018797856, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018797954, "dur":106, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018798072, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018798180, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018798248, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018798467, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018798568, "dur":99, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018798681, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018798809, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018798909, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018799007, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018799063, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018799145, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018799242, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018799353, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018799452, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018799601, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018799778, "dur":104, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018799894, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018799969, "dur":115, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018800105, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018800317, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018800409, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018800590, "dur":100, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018800706, "dur":109, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018800832, "dur":109, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018800955, "dur":125, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018801092, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018801183, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018801282, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018801527, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018801590, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018801686, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018801831, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018801926, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018802006, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018802144, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018802239, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018802333, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018802428, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018802533, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018802628, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018802721, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018802952, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018803039, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018803120, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018803267, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018803412, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018803507, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018803636, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018803730, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018803792, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018803889, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018803986, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018804084, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018804279, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018804377, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018804472, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018804563, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1684133018804620, "dur":137, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1684133018804769, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":0, "ts":1684133018804900, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018804994, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018805087, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1684133018805215, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1684133018805310, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1684133018805403, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1684133018805487, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1684133018805626, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1684133018805712, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1684133018805856, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1684133018805949, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1684133018806095, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1684133018806222, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1684133018806314, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":0, "ts":1684133018806409, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":0, "ts":1684133018806500, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":0, "ts":1684133018806598, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":0, "ts":1684133018806655, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":0, "ts":1684133018790150, "dur":16581, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684133018806734, "dur":261925, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684133019068673, "dur":551, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684133019069521, "dur":3061, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1684133018789959, "dur":16793, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684133018806760, "dur":5583, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684133018812398, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684133018812543, "dur":579, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1684133018813197, "dur":332, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1684133018814062, "dur":406, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\K210220\\Desktop\\Program inginerija\\KTU-Unity-Project\\Tumbling Tower\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684133018814472, "dur":558, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\K210220\\Desktop\\Program inginerija\\KTU-Unity-Project\\Tumbling Tower\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684133018815034, "dur":832, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\K210220\\Desktop\\Program inginerija\\KTU-Unity-Project\\Tumbling Tower\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684133018815883, "dur":1391, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\K210220\\Desktop\\Program inginerija\\KTU-Unity-Project\\Tumbling Tower\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1684133018812540, "dur":4930, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1684133018818017, "dur":91, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1684133018819164, "dur":241518, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1684133019066162, "dur":404, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1684133019066161, "dur":406, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1684133019066621, "dur":1978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1684133018790108, "dur":16666, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684133018806793, "dur":833, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684133018807627, "dur":5154, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684133018812831, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684133018812987, "dur":50, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Programs\\Unity\\2022.2.6f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":2, "ts":1684133018812953, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1684133018813040, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684133018813171, "dur":57, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Programs\\Unity\\2022.2.6f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684133018813167, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684133018813231, "dur":303, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684133018813535, "dur":191, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684133018813743, "dur":182, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684133018813952, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684133018814111, "dur":428, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\K210220\\Desktop\\Program inginerija\\KTU-Unity-Project\\Tumbling Tower\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684133018814107, "dur":434, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684133018814543, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684133018814678, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684133018814802, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684133018814938, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684133018815078, "dur":115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684133018815215, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684133018815342, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684133018815462, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684133018815580, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684133018815714, "dur":407, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684133018816153, "dur":147, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684133018816301, "dur":220, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684133018816532, "dur":142, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684133018816754, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684133018816865, "dur":211, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1684133018828864, "dur":11353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":2, "ts":1684133018840562, "dur":7720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level8" }}
+,{ "pid":12345, "tid":2, "ts":1684133018855468, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1684133018848517, "dur":7059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level2" }}
+,{ "pid":12345, "tid":2, "ts":1684133018855825, "dur":5425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level0.resS" }}
+,{ "pid":12345, "tid":2, "ts":1684133018861373, "dur":207315, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684133018791311, "dur":15846, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684133018807158, "dur":5434, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684133018812596, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1684133018812667, "dur":160, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684133018812828, "dur":433, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1684133018813305, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684133018813464, "dur":135, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684133018813654, "dur":133, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684133018813788, "dur":2220, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684133018816083, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684133018816202, "dur":144, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684133018816360, "dur":322, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684133018816703, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1684133018816811, "dur":304, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1684133018830304, "dur":10648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1684133018841141, "dur":6881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level7" }}
+,{ "pid":12345, "tid":3, "ts":1684133018848279, "dur":5928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level2.resS" }}
+,{ "pid":12345, "tid":3, "ts":1684133018854411, "dur":5561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level10" }}
+,{ "pid":12345, "tid":3, "ts":1684133018860135, "dur":208541, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684133018790342, "dur":16490, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684133018806842, "dur":1540, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684133018808383, "dur":4204, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684133018812606, "dur":188, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Programs\\Unity\\2022.2.6f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1684133018812590, "dur":207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1684133018812799, "dur":207, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684133018813021, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1684133018813075, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684133018813205, "dur":127, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":4, "ts":1684133018813203, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower.exe" }}
+,{ "pid":12345, "tid":4, "ts":1684133018813335, "dur":115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684133018813481, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684133018813615, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684133018813744, "dur":134, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684133018813879, "dur":484, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684133018814373, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684133018814525, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684133018814662, "dur":123, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684133018814813, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684133018814913, "dur":850, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684133018815775, "dur":194, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684133018816005, "dur":136, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684133018816142, "dur":256, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1684133018816409, "dur":126, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684133018816574, "dur":163, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684133018816766, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1684133018821916, "dur":5304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":4, "ts":1684133018827424, "dur":11474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets10.assets" }}
+,{ "pid":12345, "tid":4, "ts":1684133018839061, "dur":5943, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level9" }}
+,{ "pid":12345, "tid":4, "ts":1684133018845187, "dur":5790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level5" }}
+,{ "pid":12345, "tid":4, "ts":1684133018851244, "dur":6978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level11.resS" }}
+,{ "pid":12345, "tid":4, "ts":1684133018858572, "dur":210123, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684133018790470, "dur":16388, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684133018806868, "dur":1010, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684133018807879, "dur":4722, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684133018812626, "dur":61, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Programs\\Unity\\2022.2.6f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1684133018812603, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1684133018812691, "dur":149, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684133018812841, "dur":668, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1684133018813528, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684133018813666, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684133018813778, "dur":123, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684133018813913, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684133018814046, "dur":1887, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\K210220\\Desktop\\Program inginerija\\KTU-Unity-Project\\Tumbling Tower\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684133018814040, "dur":1895, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684133018815937, "dur":133, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684133018816071, "dur":59, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1684133018816142, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684133018816282, "dur":134, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684133018816445, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684133018816585, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684133018816716, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1684133018818764, "dur":6955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets9.assets" }}
+,{ "pid":12345, "tid":5, "ts":1684133018825898, "dur":5763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":5, "ts":1684133018831858, "dur":24681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1684133018856704, "dur":5389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1684133018862212, "dur":206473, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684133018790578, "dur":16301, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684133018806888, "dur":678, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684133018807567, "dur":5217, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684133018812786, "dur":138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1684133018812926, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684133018813103, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684133018813265, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684133018813400, "dur":213, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684133018813615, "dur":382, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684133018814005, "dur":392, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\K210220\\Desktop\\Program inginerija\\KTU-Unity-Project\\Tumbling Tower\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684133018814000, "dur":400, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684133018814402, "dur":128, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684133018814554, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684133018814690, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684133018814830, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684133018814968, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684133018815100, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684133018815235, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684133018815366, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684133018815493, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684133018815619, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684133018815726, "dur":80, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684133018815816, "dur":119, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684133018815956, "dur":127, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684133018816083, "dur":288, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684133018816381, "dur":435, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684133018816817, "dur":114, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1684133018822802, "dur":7866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":6, "ts":1684133018830890, "dur":9188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":6, "ts":1684133018847351, "dur":194, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1684133018840460, "dur":7199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level8.resS" }}
+,{ "pid":12345, "tid":6, "ts":1684133018847990, "dur":6312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level3" }}
+,{ "pid":12345, "tid":6, "ts":1684133018854471, "dur":5958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level1.resS" }}
+,{ "pid":12345, "tid":6, "ts":1684133018860549, "dur":208115, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684133018790696, "dur":16196, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684133018806900, "dur":671, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684133018807571, "dur":4989, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684133018812563, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1684133018812629, "dur":490, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684133018813120, "dur":219, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1684133018813377, "dur":150, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684133018813528, "dur":137, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684133018813685, "dur":255, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684133018813962, "dur":1690, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\K210220\\Desktop\\Program inginerija\\KTU-Unity-Project\\Tumbling Tower\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684133018813958, "dur":1697, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684133018815656, "dur":237, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684133018815915, "dur":283, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684133018816200, "dur":70, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684133018816281, "dur":179, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684133018816508, "dur":333, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684133018816851, "dur":292, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1684133018842226, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1684133018831075, "dur":11266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":7, "ts":1684133018842525, "dur":7734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level6.resS" }}
+,{ "pid":12345, "tid":7, "ts":1684133018850467, "dur":4995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level13" }}
+,{ "pid":12345, "tid":7, "ts":1684133018855673, "dur":4933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level1" }}
+,{ "pid":12345, "tid":7, "ts":1684133018860706, "dur":207950, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684133018790818, "dur":16087, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684133018806914, "dur":1473, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684133018808388, "dur":4004, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684133018812430, "dur":55, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Programs\\Unity\\2022.2.6f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1684133018812394, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":8, "ts":1684133018812489, "dur":303, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684133018812856, "dur":121, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684133018812993, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1684133018813045, "dur":204, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684133018813276, "dur":222, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684133018813499, "dur":62, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684133018813581, "dur":123, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684133018813764, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684133018813874, "dur":1075, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684133018814962, "dur":191, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684133018815178, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684133018815316, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684133018815443, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684133018815569, "dur":115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684133018815685, "dur":102, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684133018815798, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684133018815930, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684133018816064, "dur":121, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684133018816186, "dur":134, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684133018816332, "dur":241, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684133018816616, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684133018816733, "dur":278, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1684133018824684, "dur":4885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets4.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1684133018840316, "dur":70, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684133018829930, "dur":10550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1684133018846341, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684133018840682, "dur":5764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level7.resS" }}
+,{ "pid":12345, "tid":8, "ts":1684133018852654, "dur":67, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1684133018846802, "dur":6019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level3.resS" }}
+,{ "pid":12345, "tid":8, "ts":1684133018853156, "dur":6214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level10.resS" }}
+,{ "pid":12345, "tid":8, "ts":1684133018859456, "dur":209214, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684133018790935, "dur":15987, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684133018806930, "dur":2199, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684133018809130, "dur":3450, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684133018812582, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":9, "ts":1684133018812634, "dur":280, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684133018812932, "dur":298, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1684133018813232, "dur":631, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684133018813864, "dur":381, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":9, "ts":1684133018814276, "dur":1640, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\K210220\\Desktop\\Program inginerija\\KTU-Unity-Project\\Tumbling Tower\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684133018814247, "dur":1671, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684133018815920, "dur":222, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684133018816173, "dur":128, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684133018816301, "dur":165, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684133018816477, "dur":126, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684133018816604, "dur":60, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1684133018816675, "dur":129, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684133018816890, "dur":138, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684133018826910, "dur":7064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":9, "ts":1684133018834139, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684133018834300, "dur":50, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684133018834529, "dur":2776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":9, "ts":1684133018845054, "dur":56, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684133018837419, "dur":7730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level9.resS" }}
+,{ "pid":12345, "tid":9, "ts":1684133018845342, "dur":7204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level4.resS" }}
+,{ "pid":12345, "tid":9, "ts":1684133018852698, "dur":52, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1684133018852759, "dur":6058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level11" }}
+,{ "pid":12345, "tid":9, "ts":1684133018858970, "dur":209691, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684133018791062, "dur":16058, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684133018807127, "dur":2083, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684133018809211, "dur":3163, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684133018812398, "dur":150, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684133018812572, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684133018812733, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684133018812840, "dur":473, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1684133018813359, "dur":126, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684133018813486, "dur":153, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":10, "ts":1684133018813659, "dur":590, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684133018814250, "dur":61, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":10, "ts":1684133018814314, "dur":1419, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":10, "ts":1684133018815736, "dur":289, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684133018816050, "dur":132, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684133018816233, "dur":246, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684133018816480, "dur":89, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1684133018816580, "dur":150, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684133018816749, "dur":127, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684133018826335, "dur":631, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684133018821046, "dur":5960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets7.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1684133018834271, "dur":56, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684133018827210, "dur":7283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets11.assets" }}
+,{ "pid":12345, "tid":10, "ts":1684133018834767, "dur":9559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/resources.assets" }}
+,{ "pid":12345, "tid":10, "ts":1684133018850188, "dur":93, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684133018844475, "dur":5966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level5.resS" }}
+,{ "pid":12345, "tid":10, "ts":1684133018855486, "dur":71, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1684133018850716, "dur":4870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level12" }}
+,{ "pid":12345, "tid":10, "ts":1684133018855846, "dur":5331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level0" }}
+,{ "pid":12345, "tid":10, "ts":1684133018861264, "dur":207438, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684133018791193, "dur":15953, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684133018807153, "dur":544, "ph":"X", "name": "File",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\level10.resS" }}
+,{ "pid":12345, "tid":11, "ts":1684133018807153, "dur":1586, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684133018808740, "dur":3765, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684133018812587, "dur":69, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Programs\\Unity\\2022.2.6f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1684133018812508, "dur":150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1684133018812660, "dur":143, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684133018812804, "dur":52, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1684133018812862, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1684133018812981, "dur":103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684133018813134, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684133018813246, "dur":333, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1684133018813618, "dur":276, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684133018813930, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684133018814069, "dur":1483, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\K210220\\Desktop\\Program inginerija\\KTU-Unity-Project\\Tumbling Tower\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1684133018814066, "dur":1488, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":11, "ts":1684133018815556, "dur":124, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684133018815713, "dur":115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684133018815852, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684133018815986, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684133018816096, "dur":199, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1684133018816306, "dur":232, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684133018816538, "dur":52, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1684133018816600, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684133018816712, "dur":169, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1684133018826220, "dur":177, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684133018818908, "dur":7527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets8.assets" }}
+,{ "pid":12345, "tid":11, "ts":1684133018826731, "dur":50, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684133018833748, "dur":56, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684133018826792, "dur":7050, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets12.assets" }}
+,{ "pid":12345, "tid":11, "ts":1684133018834232, "dur":132, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684133018845055, "dur":91, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684133018834538, "dur":10633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1684133018850228, "dur":145, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684133018845323, "dur":5154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level4" }}
+,{ "pid":12345, "tid":11, "ts":1684133018856823, "dur":193, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1684133018850679, "dur":6409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level12.resS" }}
+,{ "pid":12345, "tid":11, "ts":1684133018857337, "dur":4855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":11, "ts":1684133018862325, "dur":206368, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1684133018790214, "dur":16593, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1684133018806816, "dur":734, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1684133018807551, "dur":5307, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1684133018812859, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1684133018812931, "dur":157, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1684133018813090, "dur":67, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1684133018813165, "dur":206, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Programs\\Unity\\2022.2.6f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":12, "ts":1684133018813160, "dur":214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":12, "ts":1684133018813375, "dur":540, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1684133018813946, "dur":168, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1684133018814115, "dur":58, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":12, "ts":1684133018814180, "dur":1692, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\K210220\\Desktop\\Program inginerija\\KTU-Unity-Project\\Tumbling Tower\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":12, "ts":1684133018814176, "dur":1699, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":12, "ts":1684133018815876, "dur":181, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1684133018816059, "dur":151, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":12, "ts":1684133018816222, "dur":214, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1684133018816458, "dur":369, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1684133018816828, "dur":142, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1684133018819885, "dur":6428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":12, "ts":1684133018826558, "dur":6272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets13.assets" }}
+,{ "pid":12345, "tid":12, "ts":1684133018833009, "dur":10710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":12, "ts":1684133018843984, "dur":5698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level6" }}
+,{ "pid":12345, "tid":12, "ts":1684133018849870, "dur":6073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/level13.resS" }}
+,{ "pid":12345, "tid":12, "ts":1684133018856188, "dur":7199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/K210220/Desktop/Program inginerija/KTU-Unity-Project/Build/Tumbling Tower_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":12, "ts":1684133018863508, "dur":205172, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1684133019077706, "dur":3942, "ph":"X", "name": "ProfilerWriteOutput" }
+,
